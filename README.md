@@ -1,6 +1,6 @@
 Hi, I’m Ryan Vuong, a rising third year computer science major at UCLA, and I’m interested in building fun and useful applications. 
 
-I’m currently learning ReactJS and Django.
+I’m currently learning HTML5 and CSS.
 
 I’m open to collaborating on any project!
 
